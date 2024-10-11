@@ -32,4 +32,4 @@ switch (true) {
 }
 
 // Passo 3: Exibir a mensagem final usando console.log
-console.log(`O Herói de nome ${nome} está no nível de ${nivel}`);
+console.log(" O Herói de nome" +  nome +  " está no nível de " + nivel );
